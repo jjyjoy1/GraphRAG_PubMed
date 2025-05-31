@@ -513,15 +513,14 @@ If you use this work in your research, please cite:
 ```bibtex
 @software{biomedical_graph_rag,
   title={Biomedical Graph RAG: A Knowledge Graph Approach to Biomedical Literature Analysis},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/biomedical-graph-rag}
+  author= Jiyang Jiang,
+  year=2025,
+  url={https://github.com/jjyjoy1/GraphRAG_PubMed}
 }
 ```
 
 ### Related Work
 
-- Microsoft GraphRAG: [GraphRAG Paper](https://arxiv.org/abs/2404.16130)
 - PubTator Central: [PMC8481584](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8481584/)
 - UMLS Documentation: [UMLS Reference Manual](https://www.nlm.nih.gov/research/umls/)
 - Neo4j Graph Data Science: [Neo4j GDS Documentation](https://neo4j.com/docs/graph-data-science/)
@@ -534,11 +533,6 @@ If you use this work in your research, please cite:
 - **Ollama** for local LLM deployment
 - **Microsoft Research** for GraphRAG concepts
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/biomedical-graph-rag/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/biomedical-graph-rag/discussions)
-- **Email**: your.email@domain.com
 
 ---
 
